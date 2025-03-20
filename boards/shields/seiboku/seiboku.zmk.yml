@@ -3,7 +3,7 @@ id: seiboku
 name: SEIBOKU
 type: shield
 url: https://github.com/snize/zmk-seiboku-example
-requires: [seeed_xiao]
+requires: [nice_nano]
 features:
   - keys
   - pointer
